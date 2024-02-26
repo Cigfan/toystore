@@ -17,3 +17,5 @@ public class Main {
         try {
             store.getPrizeToy();
         }
+    }
+}
